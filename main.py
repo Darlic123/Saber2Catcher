@@ -135,6 +135,6 @@ def on_message(resp):
                         bot.sendMessage(catch_id, '<@716390085896962058> h')
 
 if __name__ == '__main__':
-    print(f'Pokétwo Autocatcher {version}\nA FOSS Pokétwo autocatcher by ProGamerSoujanya And DarkFire\nEvent Log:')
+    print(f'Pokétwo Autocatcher {version}\nA FOSS Pokétwo autocatcher by Darlic\nEvent Log:')
     spam_process = start_spam()
     bot.gateway.run(auto_reconnect=True)
