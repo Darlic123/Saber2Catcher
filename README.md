@@ -54,6 +54,7 @@
 ### + If the bot go off, open your replit page and re-open it.
 
 # Follow me for more updates!
+![Seiba](https://preview.redd.it/2eetup51ucv01.png?auto=webp&s=ab4ef6fb389450d6a215810527402888d735ef33)
 
 
 
