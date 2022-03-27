@@ -56,6 +56,8 @@
 # Follow me for more updates!
 ![Seiba](https://preview.redd.it/2eetup51ucv01.png?auto=webp&s=ab4ef6fb389450d6a215810527402888d735ef33)
 
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Darlic123/Saber2Catcher)
+
 
 
 
