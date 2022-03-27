@@ -1,4 +1,4 @@
-# Poke2Catcher✨
+# Saber2Catcher✨
 ## Tired of spamming and catching? Give this simple bot a try! 
 ### An open-source PokeTwo catcher!!!
 ![Saber!](https://josefcd904.files.wordpress.com/2018/01/todays-menu-for-the-emiya-family-ep-1-pic-12.jpg?w=1400)
