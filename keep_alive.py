@@ -3,7 +3,7 @@ from threading import Thread
 app = Flask('')
 @app.route('/')
 def main():
-    return "I'm alive!"
+    return "I'm blinded by the light!"
 def run():
     app.run(host="0.0.0.0", port=8080)
 def keep_alive():
